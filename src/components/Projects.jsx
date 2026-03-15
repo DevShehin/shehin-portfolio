@@ -4,8 +4,8 @@ function Projects() {
             title: "Weather Dashboard",
             description: "Real-time weather app with 5-day forecast, live API integration, and dynamic UI that changes based on weather conditions.",
             tech: ["React", "OpenWeather API", "Tailwind CSS", "useEffect"],
-            live: "#",
-            github: "#",
+            live: "https://weather-dashboard-theta-topaz.vercel.app/",
+            github: "https://github.com/DevShehin/weather-dashboard",
             color: "blue"
         },
         {
