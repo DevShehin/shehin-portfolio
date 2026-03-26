@@ -15,7 +15,7 @@ function Projects() {
           live: "https://shehinshajahan1998-me-qtripdynamic.vercel.app/",
           github: "https://github.com/DevShehin/shehinshajahan1998-ME_QTRIPDYNAMIC",
           color: "amber"
-        }
+        },
         {
             title: "Job Board App",
             description: "Browse and filter real remote job listings. Search by keyword, filter by category, and save favourites with Local Storage.",
