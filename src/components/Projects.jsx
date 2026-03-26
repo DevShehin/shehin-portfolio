@@ -9,6 +9,14 @@ function Projects() {
             color: "blue"
         },
         {
+           title: "QTrip Dynamic",
+           description: "Full-stack travel booking application with dynamic city exploration, adventure filtering, and reservation system powered by REST APIs and deployed on Vercel & Render.",
+           tech: ["JavaScript", "HTML", "CSS", "Node.js", "Express", "REST API", "Vercel", "Render"],
+          live: "https://shehinshajahan1998-me-qtripdynamic.vercel.app/",
+          github: "https://github.com/DevShehin/shehinshajahan1998-ME_QTRIPDYNAMIC",
+          color: "amber"
+        }
+        {
             title: "Job Board App",
             description: "Browse and filter real remote job listings. Search by keyword, filter by category, and save favourites with Local Storage.",
             tech: ["React", "Remotive API", "React Hooks", "Local Storage"],
